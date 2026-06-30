@@ -1,0 +1,8 @@
+node_modules/
+package/
+*.tgz
+tf.min.js
+mnist_images.png
+mnist_labels_uint8
+train_mlp.py
+train_model.js
